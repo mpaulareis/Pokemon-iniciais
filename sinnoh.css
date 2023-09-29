@@ -1,0 +1,120 @@
+body {
+    font-family: "Arial", sans-serif;
+    background-color: #00000017;
+    color: #fff;
+    margin: 0;
+    padding: 0;
+    background-image: url(https://i.pinimg.com/originals/f6/a1/8a/f6a18ac56651ce4f9ca7e0230706a0b6.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
+  
+  header {
+    background: #00000000;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+  }
+  
+  .logo-container {
+    width: 100px;
+    height: 100px;
+  }
+  
+  .logo {
+    height: 100px;
+    width: 100px;
+    transition: transform 0.5s;
+    animation: spin 7s infinite alternate;
+  }
+
+  .Chimchar-container{
+    display: flex;
+    justify-content: center;
+  }
+
+  .Chimchar{
+    height: 350px;
+    width: 350px;
+    margin:  auto;
+    padding: auto;
+      
+  }
+
+  .Turtwig-container{
+    display: flex;
+    justify-content: center;
+  }
+
+  .Turtwig{
+    height: 300px;
+    width: 300px;
+    margin: auto;
+    padding: auto;
+      
+  }
+
+  .Piplup-container{
+    display: flex;
+    justify-content: center;
+  }
+
+  .Piplup{
+    height: 300px;
+    width: 300px;
+    margin: auto;
+    padding: auto;
+      
+  }
+  
+  .menu-container {
+    margin-right: 50px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+  }
+  
+  .item {
+    color: rgba(255, 255, 255, 0.774);
+    font-size: 1.5rem;
+    text-decoration: none;
+    margin: 0 15px;
+    padding: 5px;
+    transition: transform 0.5s;
+  }
+  
+  .item:hover {
+    transform: scale(1.1);
+    text-shadow: 2px 2px 2px rgba(0, 0, 0, 0);
+  }
+
+  main {
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+  }
+
+  footer {
+    height: 100px;
+    background: #00000000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  @keyframes spin {
+    from {
+      transform: rotate(0deg);
+    }
+  
+    to {
+      transform: rotate(360deg);
+    }
+  }
