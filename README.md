@@ -6,7 +6,7 @@ integrantes do trabalho:
 # Integrantes
 - Juan Araujo
 - Luiz Francisco
-- Maria Paula
+- Maria Paula Reis
 - Willian Lopes
 - Gilberto Alves
 - Ana Beatriz
