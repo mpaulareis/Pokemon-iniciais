@@ -8,6 +8,6 @@ integrantes do trabalho:
 - Luiz Francisco - 01599063
 - Maria Paula Reis - 01588792
 - Willian Lopes - 01574430
-- Gilberto Alves
-- Ana Beatriz
+- Gilberto Alves - 01622323
+- Ana Beatriz - 01605567
 
