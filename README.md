@@ -10,5 +10,4 @@ integrantes do trabalho:
 - Willian Lopes - 01574430
 - Gilberto Alves
 - Ana Beatriz
-- Naion William
 
