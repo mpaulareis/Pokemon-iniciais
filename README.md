@@ -4,10 +4,10 @@ Apresenta os iniciais de cada região do mundo Pokemon. Criei para testar o HTML
 integrantes do trabalho:
 
 # Integrantes
-- Juan Araujo
-- Luiz Francisco
-- Maria Paula Reis
-- Willian Lopes
+- Juan Araujo - 01612202
+- Luiz Francisco - 01599063
+- Maria Paula Reis - 01588792
+- Willian Lopes - 01574430
 - Gilberto Alves
 - Ana Beatriz
 - Naion William
